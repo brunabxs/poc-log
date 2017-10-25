@@ -1,0 +1,25 @@
+*.pyc
+
+.venv
+.cache
+
+# coverage files
+.coverage
+htmlcov/
+
+# settings file
+provider/environment_settings.py
+
+# vim
+*.sw*
+
+# sqlitedb
+provider/provider.db
+
+# Pycharm
+.idea/
+
+# Notebook
+*.ipynb
+
+debian/tivitcloud-cloud-nbi/

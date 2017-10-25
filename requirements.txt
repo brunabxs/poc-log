@@ -1,0 +1,6 @@
+celery==4.1.0
+celery-once==1.2.0
+Flask==0.12.2
+flask-cache==0.13.1
+flask-script==2.0.6
+logbook==1.1.0
